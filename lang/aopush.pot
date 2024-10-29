@@ -1,0 +1,412 @@
+# Copyright (C) 2015 Browsers Detect
+msgid ""
+msgstr ""
+"Project-Id-Version: Bros 1.0.0\n"
+"POT-Creation-Date: 2015-06-25 10:17+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANG <admin@muzu.ru>\n"
+"X-Generator: Poedit 1.8.1\n"
+
+#: ../aopush_plugin.php:1
+msgid "Notifications AutoOffice.Push"
+msgstr ""
+
+#: ../aopush_plugin.php:2
+msgid "Settings"
+msgstr ""
+
+#: ../aopush_plugin.php:3
+msgid "Newsletters"
+msgstr ""
+
+#: ../aopush_plugin.php:4
+msgid "Developments"
+msgstr ""
+
+#: ../aopush_plugin.php:5
+msgid "Templates"
+msgstr ""
+
+#: ../aopush_plugin.php:6
+msgid "Story"
+msgstr ""
+
+#: ../aopush_plugin.php:7
+msgid "Help"
+msgstr ""
+
+#: ../aopush_plugin.php:8
+msgid "Top up balance"
+msgstr ""
+
+#: ../aopush_plugin.php:9
+msgid "Personal Area"
+msgstr ""
+
+#: ../aopush_plugin.php:10
+msgid "Basic settings"
+msgstr ""
+
+#: ../aopush_plugin.php:11
+msgid "Title Settings"
+msgstr ""
+
+#: ../aopush_plugin.php:12
+msgid "Email"
+msgstr ""
+
+#: ../aopush_plugin.php:13
+msgid "Domain"
+msgstr ""
+
+#: ../aopush_plugin.php:14
+msgid "Save"
+msgstr ""
+
+#: ../aopush_plugin.php:15
+msgid "Balance"
+msgstr ""
+
+#: ../aopush_plugin.php:16
+msgid "Limit"
+msgstr ""
+
+#: ../aopush_plugin.php:17
+msgid "Incorrect data"
+msgstr ""
+
+#: ../aopush_plugin.php:18
+msgid "Missing or expired token"
+msgstr ""
+
+#: ../aopush_plugin.php:19
+msgid "Title Mailing"
+msgstr ""
+
+#: ../aopush_plugin.php:20
+msgid "Message text"
+msgstr ""
+
+#: ../aopush_plugin.php:21
+msgid "Message subject"
+msgstr ""
+
+#: ../aopush_plugin.php:22
+msgid "Notifications"
+msgstr ""
+
+#: ../aopush_plugin.php:23
+msgid "Title Notifications"
+msgstr ""
+
+#: ../aopush_plugin.php:24
+msgid "Use"
+msgstr ""
+
+#: ../aopush_plugin.php:25
+msgid "Change record"
+msgstr ""
+
+#: ../aopush_plugin.php:26
+msgid "Create a record"
+msgstr ""
+
+#: ../aopush_plugin.php:27
+msgid "There is an account for the specified domain"
+msgstr ""
+
+#: ../aopush_plugin.php:28
+msgid "Read the instructions on the site"
+msgstr ""
+
+#: ../aopush_plugin.php:29
+msgid "AvtoOfis.Push"
+msgstr ""
+
+#: ../aopush_plugin.php:30
+msgid "Aopush Plugin"
+msgstr ""
+
+#: ../aopush_plugin.php:31
+msgid "Title Message History"
+msgstr ""
+
+#: ../aopush_plugin.php:32
+msgid "Message History"
+msgstr ""
+
+#: ../aopush_plugin.php:33
+msgid "Title History"
+msgstr ""
+
+#: ../aopush_plugin.php:34
+msgid "Period"
+msgstr ""
+
+#: ../aopush_plugin.php:35
+msgid "from"
+msgstr ""
+
+#: ../aopush_plugin.php:36
+msgid "to"
+msgstr ""
+
+#: ../aopush_plugin.php:37
+msgid "Missing data"
+msgstr ""
+
+#: ../aopush_plugin.php:38
+msgid "Failed to save data"
+msgstr ""
+
+#: ../aopush_plugin.php:39
+msgid "Settings have been saved"
+msgstr ""
+
+#: ../aopush_plugin.php:40
+msgid "Data saved successfully. A notification with a link to confirm email has been sent to the specified address"
+msgstr ""
+
+#: ../aopush_plugin.php:41
+msgid "Aopush"
+msgstr ""
+
+#: ../aopush_plugin.php:42
+msgid "Push Templates"
+msgstr ""
+
+#: ../aopush_plugin.php:43
+msgid "Title Push Templates"
+msgstr ""
+
+#: ../aopush_plugin.php:44
+msgid "EventsType"
+msgstr ""
+
+#: ../aopush_plugin.php:45
+msgid "NewPost"
+msgstr ""
+
+#: ../aopush_plugin.php:46
+msgid "UpdatePost"
+msgstr ""
+
+#: ../aopush_plugin.php:47
+msgid "SubjectPush"
+msgstr ""
+
+#: ../aopush_plugin.php:48
+msgid "TextPush"
+msgstr ""
+
+#: ../aopush_plugin.php:49
+msgid "IconPush"
+msgstr ""
+
+#: ../aopush_plugin.php:50
+msgid "WarningTextPush"
+msgstr ""
+
+#: ../aopush_plugin.php:51
+msgid "DeleteIcon"
+msgstr ""
+
+#: ../aopush_plugin.php:52
+msgid "Instructions"
+msgstr ""
+
+#: ../aopush_plugin.php:53
+msgid "Mailing list"
+msgstr ""
+
+#: ../aopush_plugin.php:54
+msgid "Title Mailing list"
+msgstr ""
+
+#: ../aopush_plugin.php:55
+msgid "Send"
+msgstr ""
+
+#: ../aopush_plugin.php:56
+msgid "UploadIconPush"
+msgstr ""
+
+#: ../aopush_plugin.php:57
+msgid "Stastistics Send Push"
+msgstr ""
+
+#: ../aopush_plugin.php:58
+msgid "Title Stastistics Send Push"
+msgstr ""
+
+#: ../aopush_plugin.php:59
+msgid "Send Type"
+msgstr ""
+
+#: ../aopush_plugin.php:60
+msgid "Productive"
+msgstr ""
+
+#: ../aopush_plugin.php:61
+msgid "Productive Date"
+msgstr ""
+
+#: ../aopush_plugin.php:62
+msgid "Creation Date"
+msgstr ""
+
+#: ../aopush_plugin.php:63
+msgid "Send Push"
+msgstr ""
+
+#: ../aopush_plugin.php:64
+msgid "Send Mailing list"
+msgstr ""
+
+#: ../aopush_plugin.php:65
+msgid "Total Client"
+msgstr ""
+
+#: ../aopush_plugin.php:66
+msgid "Total New Post"
+msgstr ""
+
+#: ../aopush_plugin.php:67
+msgid "Total Update Post"
+msgstr ""
+
+#: ../aopush_plugin.php:68
+msgid "Success Save Data"
+msgstr ""
+
+#: ../aopush_plugin.php:69
+msgid "Warning used checkbox"
+msgstr ""
+
+#: ../aopush_plugin.php:70
+msgid "Warning Login Form"
+msgstr ""
+
+#: ../aopush_plugin.php:71
+msgid "Warning Domain Form"
+msgstr ""
+
+#: ../aopush_plugin.php:72
+msgid "Test Push"
+msgstr ""
+
+#: ../aopush_plugin.php:73
+msgid "Detail Send Push Test"
+msgstr ""
+
+#: ../aopush_plugin.php:74
+msgid "Test"
+msgstr ""
+
+#: ../aopush_plugin.php:75
+msgid "Warning Subject Push Form"
+msgstr ""
+
+#: ../aopush_plugin.php:76
+msgid "Warning Text Push Form"
+msgstr ""
+
+#: ../aopush_plugin.php:77
+msgid "Warning Url Push Form"
+msgstr ""
+
+#: ../aopush_plugin.php:78
+msgid "Unsubscribe"
+msgstr ""
+
+#: ../aopush_plugin.php:79
+msgid "Subscribe"
+msgstr ""
+
+#: ../aopush_plugin.php:80
+msgid "There are no subscriptions to send test notifications"
+msgstr ""
+
+#: ../aopush_plugin.php:81
+msgid "Negative balance, notifications can not be sent"
+msgstr ""
+
+#: ../aopush_plugin.php:82
+msgid "Notification successfully sentsent"
+msgstr ""
+
+#: ../aopush_plugin.php:83
+msgid "Unsubscribe Success"
+msgstr ""
+
+#: ../aopush_plugin.php:84
+msgid "Unsubscribe Error"
+msgstr ""
+
+#: ../aopush_plugin.php:85
+msgid "Could not create subscription"
+msgstr ""
+
+#: ../aopush_plugin.php:86
+msgid "Subscribe Success"
+msgstr ""
+
+#: ../aopush_plugin.php:87
+msgid "Unsubscribe Already"
+msgstr ""
+
+#: ../aopush_plugin.php:88
+msgid "Further"
+msgstr ""
+
+#: ../aopush_plugin.php:89
+msgid "UsePushSite"
+msgstr ""
+
+#: ../aopush_plugin.php:90
+msgid "Data for re-activation successfully updated. A notification was sent to the specified address with an email confirmation link"
+msgstr ""
+
+#: ../aopush_plugin.php:91
+msgid "Uninstall Account"
+msgstr ""
+
+#: ../aopush_plugin.php:92
+msgid "Tech Support"
+msgstr ""
+
+#: ../aopush_plugin.php:93
+msgid "Help Template Message"
+msgstr ""
+
+#: ../aopush_plugin.php:94
+msgid "Default Icon"
+msgstr ""
+
+#: ../aopush_plugin.php:95
+msgid "Help Events Insert"
+msgstr ""
+
+#: ../aopush_plugin.php:96
+msgid "Help Events Update"
+msgstr ""
+
+#: ../aopush_plugin.php:97
+msgid "Event Used"
+msgstr ""
+
+#: ../aopush_plugin.php:98
+msgid "LinkPush"
+msgstr ""
+
+#: ../aopush_plugin.php:99
+msgid "Warning Link Push Form"
+msgstr ""
+
+#: ../aopush_plugin.php:100
+msgid "Notifications successfully sentsent"
+msgstr ""

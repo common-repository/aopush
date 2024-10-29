@@ -1,0 +1,420 @@
+# Copyright (C) 2015 Browsers Detect
+msgid ""
+msgstr ""
+"Project-Id-Version: Bros 1.0.0\n"
+"POT-Creation-Date: 2019-02-04 19:03+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-04-15 11:29+0300\n"
+"Language-Team: LANG <admin@muzu.ru>\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: ../aopush_plugin.php:1
+msgid "Notifications AutoOffice.Push"
+msgstr "Уведомления АвтоОфис.Пуш"
+
+#: ../aopush_plugin.php:2
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../aopush_plugin.php:3
+msgid "Newsletters"
+msgstr "Рассылка"
+
+#: ../aopush_plugin.php:4
+msgid "Developments"
+msgstr "События"
+
+#: ../aopush_plugin.php:5
+msgid "Templates"
+msgstr "Автоматическая отправка"
+
+#: ../aopush_plugin.php:6
+msgid "Story"
+msgstr "Статистика"
+
+#: ../aopush_plugin.php:7
+msgid "Help"
+msgstr "Помощь"
+
+#: ../aopush_plugin.php:8
+msgid "Top up balance"
+msgstr "Пополнить баланс"
+
+#: ../aopush_plugin.php:9
+msgid "Personal Area"
+msgstr "Личный кабинет"
+
+#: ../aopush_plugin.php:10
+msgid "Basic settings"
+msgstr "Основные настройки"
+
+#: ../aopush_plugin.php:11
+msgid "Title Settings"
+msgstr "Для включения Push вам необходимо зарегистрироваться в нашем сервисе. Регистрация и отправка 500 пуш-сообщений в месяц абсолютно бесплатна. Введите email и нажмите «Далее», затем подтвердите регистрацию в вашем почтовом ящике.<br>"
+
+#: ../aopush_plugin.php:12
+msgid "Email"
+msgstr "Email"
+
+#: ../aopush_plugin.php:13
+msgid "Domain"
+msgstr "Домен"
+
+#: ../aopush_plugin.php:14
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../aopush_plugin.php:15
+msgid "Balance"
+msgstr "Баланс"
+
+#: ../aopush_plugin.php:16
+msgid "Limit"
+msgstr "Лимит"
+
+#: ../aopush_plugin.php:17
+msgid "Incorrect data"
+msgstr "Некорректные данные"
+
+#: ../aopush_plugin.php:18
+msgid "Missing or expired token"
+msgstr "Отсутствует или просрочен токен"
+
+#: ../aopush_plugin.php:19
+msgid "Title Mailing"
+msgstr " "
+
+#: ../aopush_plugin.php:20
+msgid "Message text"
+msgstr "Текст сообщения"
+
+#: ../aopush_plugin.php:21
+msgid "Message subject"
+msgstr "Тема сообщения"
+
+#: ../aopush_plugin.php:22
+msgid "Notifications"
+msgstr "Событие отправки Push уведомлений"
+
+#: ../aopush_plugin.php:23
+msgid "Title Notifications"
+msgstr " "
+
+#: ../aopush_plugin.php:24
+msgid "Use"
+msgstr "Использовать"
+
+#: ../aopush_plugin.php:25
+msgid "Change record"
+msgstr "Изменение записи"
+
+#: ../aopush_plugin.php:26
+msgid "Create a record"
+msgstr "Создание записи"
+
+#: ../aopush_plugin.php:27
+msgid "There is an account for the specified domain"
+msgstr "Для указанного домена существует учетная запись"
+
+#: ../aopush_plugin.php:28
+msgid "Read the instructions on the site"
+msgstr "Читайте на сайте &rsaquo;&rsaquo;&rsaquo;"
+
+#: ../aopush_plugin.php:29
+msgid "AvtoOfis.Push"
+msgstr "АвтоОфис.Пуш"
+
+#: ../aopush_plugin.php:30
+msgid "Aopush Plugin"
+msgstr "Aopush: web push-уведомления на вашем сайте"
+
+#: ../aopush_plugin.php:31
+msgid "Title Message History"
+msgstr " "
+
+#: ../aopush_plugin.php:32
+msgid "Message History"
+msgstr "История сообщений"
+
+#: ../aopush_plugin.php:33
+msgid "Title History"
+msgstr " "
+
+#: ../aopush_plugin.php:34
+msgid "Period"
+msgstr "Период"
+
+#: ../aopush_plugin.php:35
+msgid "from"
+msgstr "от"
+
+#: ../aopush_plugin.php:36
+msgid "to"
+msgstr "до"
+
+#: ../aopush_plugin.php:37
+msgid "Missing data"
+msgstr "Отсутствуют данные"
+
+#: ../aopush_plugin.php:38
+msgid "Failed to save data"
+msgstr "Не удалось сохранить данные"
+
+#: ../aopush_plugin.php:39
+msgid "Settings have been saved"
+msgstr "Настройки сохранены"
+
+#: ../aopush_plugin.php:40
+msgid "Data saved successfully. A notification with a link to confirm email has been sent to the specified address"
+msgstr "Данные успешно сохранены. На указанный адрес отправлено уведомление с ссылкой для подтверждения email"
+
+#: ../aopush_plugin.php:41
+msgid "Aopush"
+msgstr "АвтоОфис.Пуш"
+
+#: ../aopush_plugin.php:42
+msgid "Push Templates"
+msgstr "Шаблоны автоматических Push уведомлений"
+
+#: ../aopush_plugin.php:43
+msgid "Title Push Templates"
+msgstr " Push-уведомления будут отправляться автоматически, если включены и настроены события Wordpress"
+
+#: ../aopush_plugin.php:44
+msgid "EventsType"
+msgstr "Событие"
+
+#: ../aopush_plugin.php:45
+msgid "NewPost"
+msgstr "Новая запись"
+
+#: ../aopush_plugin.php:46
+msgid "UpdatePost"
+msgstr "Изменение записи"
+
+#: ../aopush_plugin.php:47
+msgid "SubjectPush"
+msgstr "Заголовок"
+
+#: ../aopush_plugin.php:48
+msgid "TextPush"
+msgstr "Текст уведомления"
+
+#: ../aopush_plugin.php:49
+msgid "IconPush"
+msgstr "Url иконки"
+
+#: ../aopush_plugin.php:50
+msgid "WarningTextPush"
+msgstr "Текстом сообщения для данного типа уведомлений является название записи"
+
+#: ../aopush_plugin.php:51
+msgid "DeleteIcon"
+msgstr "Удалить файл"
+
+#: ../aopush_plugin.php:52
+msgid "Instructions"
+msgstr "Инструкция"
+
+#: ../aopush_plugin.php:53
+msgid "Mailing list"
+msgstr "Отправка Push уведомлений по всем"
+
+#: ../aopush_plugin.php:54
+msgid "Title Mailing list"
+msgstr " "
+
+#: ../aopush_plugin.php:55
+msgid "Send"
+msgstr "Отправить"
+
+#: ../aopush_plugin.php:56
+msgid "UploadIconPush"
+msgstr "Загруженная иконка"
+
+#: ../aopush_plugin.php:57
+msgid "Stastistics Send Push"
+msgstr "Статистика отправленных Push уведомлений"
+
+#: ../aopush_plugin.php:58
+msgid "Title Stastistics Send Push"
+msgstr " "
+
+#: ../aopush_plugin.php:59
+msgid "Send Type"
+msgstr "Тип сообщения"
+
+#: ../aopush_plugin.php:60
+msgid "Productive"
+msgstr "Доставлено"
+
+#: ../aopush_plugin.php:61
+msgid "Productive Date"
+msgstr "Дата доставки"
+
+#: ../aopush_plugin.php:62
+msgid "Creation Date"
+msgstr "Дата отправки"
+
+#: ../aopush_plugin.php:63
+msgid "Send Push"
+msgstr "Отправлено"
+
+#: ../aopush_plugin.php:64
+msgid "Send Mailing list"
+msgstr "Рассылка"
+
+#: ../aopush_plugin.php:65
+msgid "Total Client"
+msgstr "Всего подписчиков"
+
+#: ../aopush_plugin.php:66
+msgid "Total New Post"
+msgstr "Всего отправлено"
+
+#: ../aopush_plugin.php:67
+msgid "Total Update Post"
+msgstr "Всего доставлено"
+
+#: ../aopush_plugin.php:68
+msgid "Success Save Data"
+msgstr "Данные успешно сохранены"
+
+#: ../aopush_plugin.php:69
+msgid "Warning used checkbox"
+msgstr ""
+"Эта опция включает подписку на Push на вашем сайте и автоматическую<br>\n"
+"отправку уведомлений после активации событий"
+
+#: ../aopush_plugin.php:70
+msgid "Warning Login Form"
+msgstr "В поле: Email укажите действующий электронный адрес"
+
+#: ../aopush_plugin.php:71
+msgid "Warning Domain Form"
+msgstr "В поле: Домен необходимо указать url домена. Пример : <b>https://example.com</b>"
+
+#: ../aopush_plugin.php:72
+msgid "Test Push"
+msgstr "Отправка тестовых Push уведомлений"
+
+#: ../aopush_plugin.php:73
+msgid "Detail Send Push Test"
+msgstr " "
+
+#: ../aopush_plugin.php:74
+msgid "Test"
+msgstr "Тест"
+
+#: ../aopush_plugin.php:75
+msgid "Warning Subject Push Form"
+msgstr ""
+"Допустимая длина заголовка 30 символов.<br>\n"
+"При превышении указанной длины часть текста не будет отображена"
+
+#: ../aopush_plugin.php:76
+msgid "Warning Text Push Form"
+msgstr ""
+"Допустимая длина сообщения 130 символов.<br>\n"
+"При превышении указанной длины часть текста не будет отображена"
+
+#: ../aopush_plugin.php:77
+msgid "Warning Url Push Form"
+msgstr "Ссылка на изображение в формате: <b>https://example.com</b>"
+
+#: ../aopush_plugin.php:78
+msgid "Unsubscribe"
+msgstr "Отписаться"
+
+#: ../aopush_plugin.php:79
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: ../aopush_plugin.php:80
+msgid "There are no subscriptions to send test notifications"
+msgstr "Отсутствуют подписки для отправки тестовых уведомлений"
+
+#: ../aopush_plugin.php:81
+msgid "Negative balance, notifications can not be sent"
+msgstr "Отрицательный баланс, отправка уведомлений невозможна"
+
+#: ../aopush_plugin.php:82
+msgid "Notification successfully sentsent"
+msgstr "Уведомление успешно отправлено"
+
+#: ../aopush_plugin.php:83
+msgid "Unsubscribe Success"
+msgstr "Вы успешно отписались от Push уведомлений"
+
+#: ../aopush_plugin.php:84
+msgid "Unsubscribe Error"
+msgstr "Не удалось отписаться от Push уведомлений"
+
+#: ../aopush_plugin.php:85
+msgid "Could not create subscription"
+msgstr "Не удалось создать подписку на Push уведомления"
+
+#: ../aopush_plugin.php:86
+msgid "Subscribe Success"
+msgstr "Подписка на Push уведомления успешно создана"
+
+#: ../aopush_plugin.php:87
+msgid "Unsubscribe Already"
+msgstr "Вы уже отписаны от Push уведомлений"
+
+#: ../aopush_plugin.php:88
+msgid "Further"
+msgstr "Далее"
+
+#: ../aopush_plugin.php:89
+msgid "UsePushSite"
+msgstr "Включить подписку на Push на сайте"
+
+#: ../aopush_plugin.php:90
+msgid "Data for re-activation successfully updated. A notification was sent to the specified address with an email confirmation link"
+msgstr "Данные для повторной активации успешно обновлены. На указанный адрес отправлено уведомление со ссылкой для подтверждения электронной почты"
+
+#: ../aopush_plugin.php:91
+msgid "Uninstall Account"
+msgstr "Аккаунт деактивирован"
+
+#: ../aopush_plugin.php:92
+msgid "Tech Support"
+msgstr "Техподдержка"
+
+#: ../aopush_plugin.php:93
+msgid "Help Template Message"
+msgstr ""
+
+#: ../aopush_plugin.php:94
+msgid "Default Icon"
+msgstr "https://aoserver.ru/images/png/default_push_icon.png"
+
+#: ../aopush_plugin.php:95
+msgid "Help Events Insert"
+msgstr "Push-уведомление будет отправлено по всем подписчикам после публикации новой записи на сайте Wordpress со ссылкой на просмотр записи"
+
+#: ../aopush_plugin.php:96
+msgid "Help Events Update"
+msgstr "Push-уведомление будет отправлено по всем подписчикам после обновления публикации на сайте Wordpress со ссылкой на просмотр записи"
+
+#: ../aopush_plugin.php:97
+msgid "Event Used"
+msgstr "Включить событие"
+
+#: ../aopush_plugin.php:98
+msgid "LinkPush"
+msgstr "Ссылка"
+
+#: ../aopush_plugin.php:99
+msgid "Warning Link Push Form"
+msgstr "Ссылка в формате: <b>https://example.com</b>"
+
+#: ../aopush_plugin.php:100
+msgid "Notifications successfully sentsent"
+msgstr "Рассылка успешно отправлена"
